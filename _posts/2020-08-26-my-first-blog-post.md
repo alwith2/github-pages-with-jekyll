@@ -1,4 +1,4 @@
 ---
-Title: "Twas the first day of Christmas"
-Date: 2020-26-08
+title: "Twas the first day of Christmas"
+date: 2020-26-08
 ---
